@@ -26,7 +26,7 @@
         "webflo/drupal-finder": "^0.2.1",
         "webmozart/path-util": "^2.3",
         "drupal/devel": "^1.0@beta",
-        "drupal/rdfui": "^1.0@beta",
+        "drupal/rdfui": "1.x-dev",
         "drupal/restui": "^1.13",
         "drupal/media_entity": "^1.6",
         "drupal/media_entity_image": "^1.2",
