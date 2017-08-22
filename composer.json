@@ -31,6 +31,7 @@
         "drupal/bootstrap": "^3.1",
         "drupal/search_api_solr": "1.0.0",
         "drupal/facets": "1.x-dev",
+        "islandora/carapace": "dev-8x.-1.x",
         "islandora/islandora_image": "dev-8.x-1.x"
     },
     "require-dev": {
