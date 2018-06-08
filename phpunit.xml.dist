@@ -6,7 +6,6 @@
          colors="true"
          bootstrap="vendor/autoload.php"
          verbose="true"
-         convertDeprecationsToExceptions="false"
         >
     <testsuites>
         <testsuite name="drupal-composer-project tests">
